@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Work Package" max_length="40" name="x_76623_workpack_work_package" type="collection"/>
+</database>
